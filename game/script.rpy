@@ -16,17 +16,13 @@ label start:
 
     scene bg room
 
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
+    "The letter from Skylar had been sitting on your bedroom table for months. You never really thought about having the need to move and start over until now, but it was time. You reach over and open the letter. Reading through it was more than enough to have your mind made up about it, you are moving to Seabloom Shores."
+
+    "You pick up your phone to call Skylar and tell her you’re taking her up on the offer to move to Seabloom Shores."
 
     show skylar neutral at left
 
-    # These display lines of dialogue.
-
-    sky "You've created a new Ren'Py game."
-
-    sky "Once you add a story, pictures, and music, you can release it to the world!"
+    sky "Hello? I’m sorry I don’t recognize the number, who’s calling?"
 
     # This ends the game.
 
